@@ -1,0 +1,6 @@
+build/
+bin/
+.vs/
+.vscode/
+SDL2
+.DS_Store
